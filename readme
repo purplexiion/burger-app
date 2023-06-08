@@ -1,4 +1,5 @@
 DELIGHTS SEARCH BURGER APP - A MORINGA SCHOOL PROJECT DESIGNED BY WAMUYU WACHIRA.
+Redoing the application whilst learning Fullstack development.
 
 ## description.
 The Delights Burger Search Application allows one to make a search of a burger with an id number. Once input, the user can see details of the burger(apart from the image - the API did not have that) and is able to access an external URL link to get further details about the burger. The data is refreshed with every id put in.

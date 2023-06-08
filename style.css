@@ -262,3 +262,58 @@ form input{
       align-items: center;
      
    }
+
+   /*Contact Us Button/Area*/
+   #ContactUs{
+   display:flex;
+   flex-direction: column;
+   text-align: center;
+   align-items:center;
+   justify-content:center;
+   padding: 10px 10px;
+   height: 400px;
+   color:black;
+   }
+   /*Contact Us Form*/
+   #form-contact{
+      font-family: Avenir, sans-serif;
+      font-size: 18px;
+      font-style: bolder;
+      font-weight: 400;
+      text-decoration: none solid rgb(255, 255, 255);
+      background-color: rgb(251, 250, 245);
+      color: rgb(255, 255, 255);
+      border: 0px none rgb(255, 255, 255);
+      margin: 5 5 5 5px;
+      border-radius: 5px;
+      padding: 10 10 10px 10px;
+      transition: all 0.3s ease 0s;
+      outline: rgb(255, 255, 255) dashed 0px;
+      outline-offset: 0px;
+      text-align: center;
+   }
+   
+   .contactbtn{
+      font-family: Avenir, sans-serif;
+      font-size: 18px;
+      font-style: bolder;
+      font-weight: 400;
+      text-decoration: none solid rgb(255, 255, 255);
+      background-color: rgb(180, 143, 9);
+      color: rgb(255, 255, 255);
+      height: 50.5px;
+      width:300px;
+      max-width:600px;
+      border: 0px none rgb(255, 255, 255);
+      margin: 10 10 10 10px;
+      border-radius: 5px;
+      padding: 10 10 10px 10px;
+      border-spacing: 0px 0px;
+      transition: all 0.3s ease 0s;
+      outline: rgb(255, 255, 255) dashed 0px;
+      outline-offset: 0px;
+      box-sizing: border-box;
+      align-items:right;
+      float:center;
+      justify-content: end;
+   }
